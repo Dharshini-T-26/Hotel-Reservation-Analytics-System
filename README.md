@@ -58,8 +58,7 @@ Hotel-Reservation-Analytics-System/
 ├── README.md
 ├── sample_data.sql
 ├── all_queries.sql
-├── hotel_er_diagram.png
-
+├── project er diagram.png
 ```
 
 ## Sample Analytics
@@ -89,7 +88,7 @@ The project includes SQL queries to answer business questions such as:
 The database schema is available in the repository as:
 
 ```
-hotel_er_diagram.png
+project er diagram.png
 ```
 
 ## How to Run
